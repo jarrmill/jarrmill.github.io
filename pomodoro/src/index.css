@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.countdown {
+  border-style: solid;
+  background-color: grey;
+}
